@@ -228,6 +228,8 @@ body {
     ),
     url(../images/hero/hero.jpg);
   background-size: cover;
+  max-width: 1600px;
+  margin: 0 auto;
 }
 
 .hero-container {
